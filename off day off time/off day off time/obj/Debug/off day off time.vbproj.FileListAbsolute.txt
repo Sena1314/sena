@@ -9,3 +9,15 @@ c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day o
 c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.exe
 c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.xml
 c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.pdb
+C:\Users\irem\Desktop\git\off day off time\off day off time\bin\Debug\off day off time.exe.config
+C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off day off time.xml
+C:\Users\irem\Desktop\git\off day off time\off day off time\bin\Debug\off day off time.exe
+C:\Users\irem\Desktop\git\off day off time\off day off time\bin\Debug\off day off time.pdb
+C:\Users\irem\Desktop\git\off day off time\off day off time\bin\Debug\off day off time.xml
+C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off day off time.vbprojResolveAssemblyReference.cache
+C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off_day_off_time.bilgiler.resources
+C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off_day_off_time.hobiler.resources
+C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off_day_off_time.Resources.resources
+C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off day off time.vbproj.GenerateResource.Cache
+C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off day off time.exe
+C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off day off time.pdb
