@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\off day off time.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\off day off time.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\off day off time.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\off day off time.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.bilgiler.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.pdb
