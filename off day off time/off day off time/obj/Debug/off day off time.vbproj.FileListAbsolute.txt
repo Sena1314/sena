@@ -21,3 +21,23 @@ C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off_day_of
 C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off day off time.vbproj.GenerateResource.Cache
 C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off day off time.exe
 C:\Users\irem\Desktop\git\off day off time\off day off time\obj\Debug\off day off time.pdb
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\bin\Debug\off day off time.exe.config
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\bin\Debug\off day off time.exe
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\bin\Debug\off day off time.pdb
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\bin\Debug\off day off time.xml
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off day off time.vbprojResolveAssemblyReference.cache
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off_day_off_time.bilgiler.resources
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off_day_off_time.gaktivite.resources
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off_day_off_time.hobiler.resources
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off_day_off_time.Resources.resources
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off day off time.vbproj.GenerateResource.Cache
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off day off time.vbproj.CoreCompileInputs.cache
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off day off time.exe
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off day off time.xml
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off day off time.pdb
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\UserControl1.g.vb
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off day off time_Content.g.vb
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off day off time_MarkupCompile.cache
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off day off time_MarkupCompile.lref
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\UserControl1.baml
+C:\Users\Sena Nur KİRAZ\Desktop\offdayofftime\off day off time\off day off time\obj\Debug\off day off time.g.resources

@@ -87,5 +87,15 @@ Update Order Option
 Used to sort self-referenced table's rows
 </summary>
 </member>
+<member name="T:off_day_off_time.UserControl1">
+<summary>
+UserControl1
+</summary>
+</member>
+<member name="M:off_day_off_time.UserControl1.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 </members>
 </doc>

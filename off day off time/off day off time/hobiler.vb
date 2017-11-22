@@ -63,6 +63,11 @@
 
     End Sub
 
+    Private Sub devamb_Click(sender As Object, e As EventArgs) Handles devamb.Click
+        gaktivite.Show()
+
+    End Sub
+
     Private Sub ComboBox1_SelectionChangeCommitted(sender As Object, e As EventArgs) Handles ComboBox1.SelectionChangeCommitted
         Select Case ComboBox1.SelectedItem
             Case "SANAT"
