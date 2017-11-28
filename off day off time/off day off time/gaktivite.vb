@@ -12,18 +12,20 @@ Public Class gaktivite
         Return ksaat
     End Function
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-
         Dim uyuma As Double
         Dim is_okul As Double
         Dim kzaman As Double
         Dim sonuc As Double
         Try
-            Dim iDate As String = comm
-            Dim oDate As DateTime = Convert.ToDateTime(iDate)
-            MsgBox(oDate.Day & " " & oDate.Month & "  " & oDate.Year)
-            uyuma = Convert.ToDate(ComboBox1.Text)
-            is_okul = itxt.Text
-            kzaman = ktxt.Text
+            utxt.TextMaskFormat = MaskFormat.IncludeLiterals
+            uyuma = Convert.ToDouble(utxt.Text.Replace(":", ","))
+
+            itxt.TextMaskFormat = MaskFormat.IncludeLiterals
+            is_okul = Convert.ToDouble(itxt.Text.Replace(":", ","))
+            ktxt.TextMaskFormat = MaskFormat.IncludeLiterals
+            kzaman = Convert.ToDouble(ktxt.Text.Replace(":", ","))
+
+
             sonuc = uyuma + is_okul + kzaman
             sonuc = hesapla(sonuc)
             MessageBox.Show("Aktiviteleriniz için ayrılan zaman:" & sonuc)

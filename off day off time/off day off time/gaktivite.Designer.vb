@@ -27,9 +27,6 @@ Partial Class gaktivite
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.utxt = New System.Windows.Forms.TextBox()
-        Me.itxt = New System.Windows.Forms.TextBox()
-        Me.ktxt = New System.Windows.Forms.TextBox()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.Label10 = New System.Windows.Forms.Label()
         Me.Label11 = New System.Windows.Forms.Label()
@@ -41,7 +38,9 @@ Partial Class gaktivite
         Me.TextBox9 = New System.Windows.Forms.TextBox()
         Me.Label14 = New System.Windows.Forms.Label()
         Me.TextBox10 = New System.Windows.Forms.TextBox()
-        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
+        Me.utxt = New System.Windows.Forms.MaskedTextBox()
+        Me.itxt = New System.Windows.Forms.MaskedTextBox()
+        Me.ktxt = New System.Windows.Forms.MaskedTextBox()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -89,27 +88,6 @@ Partial Class gaktivite
         Me.Button1.TabIndex = 7
         Me.Button1.Text = "KAYDET"
         Me.Button1.UseVisualStyleBackColor = True
-        '
-        'utxt
-        '
-        Me.utxt.Location = New System.Drawing.Point(158, 77)
-        Me.utxt.Name = "utxt"
-        Me.utxt.Size = New System.Drawing.Size(100, 20)
-        Me.utxt.TabIndex = 8
-        '
-        'itxt
-        '
-        Me.itxt.Location = New System.Drawing.Point(158, 117)
-        Me.itxt.Name = "itxt"
-        Me.itxt.Size = New System.Drawing.Size(100, 20)
-        Me.itxt.TabIndex = 9
-        '
-        'ktxt
-        '
-        Me.ktxt.Location = New System.Drawing.Point(158, 164)
-        Me.ktxt.Name = "ktxt"
-        Me.ktxt.Size = New System.Drawing.Size(100, 20)
-        Me.ktxt.TabIndex = 10
         '
         'GroupBox1
         '
@@ -216,25 +194,42 @@ Partial Class gaktivite
         Me.TextBox10.Size = New System.Drawing.Size(21, 20)
         Me.TextBox10.TabIndex = 21
         '
-        'ComboBox1
+        'utxt
         '
-        Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"00.00", "00.01", "00.02", "02:00", "02:30"})
-        Me.ComboBox1.Location = New System.Drawing.Point(288, 76)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(121, 21)
-        Me.ComboBox1.TabIndex = 22
+        Me.utxt.Location = New System.Drawing.Point(167, 70)
+        Me.utxt.Mask = "00:00"
+        Me.utxt.Name = "utxt"
+        Me.utxt.Size = New System.Drawing.Size(100, 20)
+        Me.utxt.TabIndex = 22
+        Me.utxt.ValidatingType = GetType(Date)
+        '
+        'itxt
+        '
+        Me.itxt.Location = New System.Drawing.Point(167, 120)
+        Me.itxt.Mask = "00:00"
+        Me.itxt.Name = "itxt"
+        Me.itxt.Size = New System.Drawing.Size(100, 20)
+        Me.itxt.TabIndex = 23
+        Me.itxt.ValidatingType = GetType(Date)
+        '
+        'ktxt
+        '
+        Me.ktxt.Location = New System.Drawing.Point(167, 160)
+        Me.ktxt.Mask = "00:00"
+        Me.ktxt.Name = "ktxt"
+        Me.ktxt.Size = New System.Drawing.Size(100, 20)
+        Me.ktxt.TabIndex = 24
+        Me.ktxt.ValidatingType = GetType(Date)
         '
         'gaktivite
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(706, 339)
-        Me.Controls.Add(Me.ComboBox1)
-        Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.ktxt)
         Me.Controls.Add(Me.itxt)
         Me.Controls.Add(Me.utxt)
+        Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
@@ -254,9 +249,6 @@ Partial Class gaktivite
     Friend WithEvents Label3 As Label
     Friend WithEvents Label4 As Label
     Friend WithEvents Button1 As Button
-    Friend WithEvents utxt As TextBox
-    Friend WithEvents itxt As TextBox
-    Friend WithEvents ktxt As TextBox
     Friend WithEvents GroupBox1 As GroupBox
     Friend WithEvents Label10 As Label
     Friend WithEvents Label11 As Label
@@ -268,5 +260,7 @@ Partial Class gaktivite
     Friend WithEvents TextBox9 As TextBox
     Friend WithEvents Label14 As Label
     Friend WithEvents TextBox10 As TextBox
-    Friend WithEvents ComboBox1 As ComboBox
+    Friend WithEvents utxt As MaskedTextBox
+    Friend WithEvents itxt As MaskedTextBox
+    Friend WithEvents ktxt As MaskedTextBox
 End Class
